@@ -5,6 +5,13 @@ All notable changes to LLMKube will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [0.7.9](https://github.com/defilantech/LLMKube/compare/v0.7.8...v0.7.9) (2026-05-15)
+
+
+### Bug Fixes
+
+* prevent concurrent runtime respawn in metal-agent ([#469](https://github.com/defilantech/LLMKube/issues/469)) ([f34640b](https://github.com/defilantech/LLMKube/commit/f34640b118e4a043888e2eb8bb20012c6f2d5b42))
+
 ## [0.7.8](https://github.com/defilantech/LLMKube/compare/v0.7.7...v0.7.8) (2026-05-14)
 
 
